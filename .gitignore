@@ -1,0 +1,22 @@
+# Logs
+*.log
+
+# Configuration files with secrets
+config/*.key
+config/*.pem
+*.env
+
+# Dependencies
+node_modules/
+vendor/
+
+# Build artifacts
+*.exe
+*.dll
+dist/
+build/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
